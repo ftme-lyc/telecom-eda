@@ -42,4 +42,4 @@ This project performs an in-depth exploratory data analysis (EDA) on a telecom c
 - `eda_project.py` – A script version of the notebook for easier code review.
 - `TeleCom_Data.csv` – The original dataset used for analysis.
 - `requirements.txt` – List of packages required to run the project.
-- `Report.pdf` – Detailed project report summarizing findings and methodology.
+- `EDA_report_08_09_2024.pdf` – Detailed project report summarizing findings and methodology.
